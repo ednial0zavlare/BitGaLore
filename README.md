@@ -1,5 +1,7 @@
 # BitGaLore
 
+# Work in Progress
+
 This repo contains the pre-release version of GaLore algorithm, proposed by [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://arxiv.org/abs/2403.03507).
 
 And this fork builds on the idea of a 1.58 bit architecture, going down to this ternary instead of 8 bit GaLore
